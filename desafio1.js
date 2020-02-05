@@ -1,6 +1,6 @@
 // Criar um programa que calcula o IMC (índice de massa corporal)
-// é o cálculo entre altura e peso       
-//  a fórmula é o peso / (altura*altura)
+// é o cálculo entre peso dividido pelo quadrado da altura       
+// a fórmula é o peso / (altura*altura)
 
 const nome = 'Xuxa';
 const altura = 1.60
